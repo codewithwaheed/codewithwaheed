@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Diligent software engineer with 4+ years of experience in web technologies and software development. Eager to to build innovative and cutting-edge business solutions. Adept in a startup and fast paced environment. Having success in building products, support and infrastructure. Passionate to develop and learn new things.
+Diligent software engineer with 7+ years of experience in web technologies and software development. Eager to to build innovative and cutting-edge business solutions. Adept in a startup and fast paced environment. Having success in building products, support and infrastructure. Passionate to develop and learn new things.
 
 
 ## 🌐 Socials:
