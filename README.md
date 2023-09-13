@@ -4,7 +4,7 @@
 Diligent software engineer with 7+ years of experience in web technologies and software development. Eager to to build innovative and cutting-edge business solutions. Adept in a startup and fast paced environment. Having success in building products, support and infrastructure. Passionate to develop and learn new things.
 
 
-<-- ## 🌐 Socials:
+<!-- ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wah_eed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/codewithwaheed)  -->
 
 # 💻 Tech Stack:
