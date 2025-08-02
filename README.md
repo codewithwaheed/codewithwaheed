@@ -2,7 +2,7 @@
 
 # Hi, Waheed here! 👋
 
-I'm a **Staff Software Consultant** at **10Pearl LLC** with over 5 years of experience in building scalable, high-performance web applications. My expertise spans across full-stack development, with a strong focus on **frontend technologies**, especially **React.js**. I’ve built dynamic and responsive user interfaces, ensuring seamless user experiences using **Next.js**, **TypeScript**, and **modern JavaScript frameworks**.
+I'm a **Staff Software Consultant** at **10Pearl LLC** with over 6 years of experience in building scalable, high-performance web applications. My expertise spans across full-stack development, with a strong focus on **frontend technologies**, especially **React.js**. I’ve built dynamic and responsive user interfaces, ensuring seamless user experiences using **Next.js**, **TypeScript**, and **modern JavaScript frameworks**.
 
 On the backend, I design robust APIs using **Node.js** and **AWS** services, crafting cloud-native, secure, and efficient systems. I frequently employ **Jest** for testing to ensure reliability and performance. I’ve had the opportunity to work on projects that scale to millions of users, integrating complex systems with performance and security in mind.
 
